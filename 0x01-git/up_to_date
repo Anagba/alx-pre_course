@@ -1,0 +1,4 @@
+git status to know of any development
+git branch to know which branch we are on
+git fetch to collect info from our origin
+git pull to update changes made fro  the github interface
